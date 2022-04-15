@@ -20,6 +20,6 @@ J'ai écris mes premiers micro-programmes en Basic, il y a de cela fort fort lon
 
 ### Et en-dehors du développement ?
 
-J'ai exercer des métiers totalement à l'opposé de ma passions principales (jeux-vidéos, Web, nouvelles technologies), essentiellement dans le transport (marchandises et voyageurs) : conducteur-routier, agent de manoeuvre ferroviaire, conducteur de bus, conducteur de tramways.
+J'ai exercer des métiers totalement à l'opposé de mes passions principales (jeux-vidéos, Web, nouvelles technologies), essentiellement dans le transport (marchandises et voyageurs) : conducteur-routier, agent de manoeuvre ferroviaire, conducteur de bus, conducteur de tramways.
 
 Ce sont des milieux que je connais très bien. Je pourrai donc facilement comprendre ce qu'un éventuel la demande d'un éventuel client venant de ce milieu 😉
