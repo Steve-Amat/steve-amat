@@ -1,6 +1,6 @@
-# Steve Amat (43 ans)
+# Steve Amat (44 ans)
 
-## Développeur web junior
+## Développeur web back-end junior (Symfony)
 
 Actuellement en formation _Développeur web_ chez [O'clock](https://oclock.io/), j'en sortirai avec toutes les armes pour créer et animer vos sites et applications web / mobile, avec les standards de programmation actuels et, bien entendu, responsives.
 
