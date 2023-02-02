@@ -1,10 +1,10 @@
 # Steve Amat (44 ans)
 
-## Développeur web back-end junior (Symfony)
+## Développeur web back-end (PHP / Symfony)
 
-Actuellement en formation _Développeur web_ chez [O'clock](https://oclock.io/), j'en sortirai avec toutes les armes pour créer et animer vos sites et applications web / mobile, avec les standards de programmation actuels et, bien entendu, responsives.
+En cours de reconvertion professionnelle après avoir suivi une formation _Développeur web & web mobile_ chez [O'clock](https://oclock.io/), je dispose d'une bonne palette de compétences pour créer et animer vos sites et applications web / mobile, avec les standards de programmation actuels et, bien entendu, responsives.
 
-Bien que me dirigeant vers une spécialisation Back-end (_php / Symfony_), je compte me former par la suite sur un langage plus récent (qui reste à définir).
+Bien que m'étant dirigé vers une spécialisation Back-end (_php / Symfony_), je compte me former par la suite sur un langage plus récent (qui reste à définir).
 
 J'espère que ce qui est une passion depuis plusieurs années deviendra mon métier durant plusieurs années 🤩
 
